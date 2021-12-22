@@ -1,4 +1,4 @@
-A web-based stock chart and live chat program for Prof. Karra's CS160 course at SJSU. 
+A web-based full stack stock chart and live chat program for Prof. Karra's Software Engineering course at SJSU. 
 
 All updates to master will get automatically deployed using Github Actions.
 
