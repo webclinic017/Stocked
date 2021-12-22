@@ -1,6 +1,7 @@
 A web-based stock chart and live chat program for Prof. Karra's CS160 course at SJSU. 
 
-Hosted here: https://kevin-benelli.github.io/2021-fall-cs160-pied-piper/ (missing some database functionality - needs to be run locally for full experience)
+Front end is hosted here: https://kevin-benelli.github.io/2021-fall-cs160-pied-piper/, but the local stocked-express-backend server needs to be running regardless of whether you're using that or running locally.
+
 All updates to master will get automatically deployed using Github Actions.
 
 Dev steps:
