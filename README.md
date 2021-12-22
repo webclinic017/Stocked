@@ -1,6 +1,6 @@
 A web-based full stack stock chart and live chat program for Prof. Karra's Software Engineering course at SJSU. 
 
-All updates to master will get automatically deployed using Github Actions.
+All updates to master will get automatically built and deployed using Github Actions, but the back end still needs to be ran locally so it's not very useful yet.
 
 Build steps:
 
