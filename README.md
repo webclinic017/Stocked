@@ -1,3 +1,8 @@
+# Stocked
+
+![image](https://user-images.githubusercontent.com/23157710/147143133-84637b86-9846-46dd-b306-095a1a486354.png)
+
+
 A web-based full stack stock chart and live chat program for Prof. Karra's Software Engineering course at SJSU. 
 
 All updates to master will get automatically built and deployed using Github Actions, but the back end still needs to be ran locally so it's not very useful yet.
